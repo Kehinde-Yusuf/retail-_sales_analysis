@@ -34,3 +34,9 @@ This project analyzes retail sales data to identify profitable product categorie
 
 ## Conclusion
 This analysis demonstrates the ability to perform exploratory data analysis, generate actionable insights, and communicate findings clearly using Python in VS Code.
+
+## Visualizations
+### Total Sales by Region
+
+![Total Sales by Region](sales_by_region.png)
+ 
